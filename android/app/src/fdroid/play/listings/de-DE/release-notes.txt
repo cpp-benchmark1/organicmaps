@@ -1,0 +1,5 @@
+• Neue OpenStreetMap-Daten vom 22. November
+• Hervorhebung des übereinstimmenden Teils der Adresse in Suchergebnissen
+• Sortierung des Suchverlaufs nach letzter Nutzung
+• Behobene Startabstürze bei einigen älteren Geräten mit Mali-T-GPUs
+• Weitere Suchverbesserungen, Übersetzungs-Updates und Fehlerbehebungen

@@ -1,0 +1,4 @@
+• Nouvelles données OpenStreetMap du 22 novembre
+• Correction d'un bug dans l'éditeur de description des favoris
+• macOS : défilement de la carte avec la souris et le trackpad
+• Autres améliorations de recherche, mises à jour de traduction et corrections de bugs

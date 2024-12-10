@@ -1,0 +1,5 @@
+• Nuevos datos de OpenStreetMap del 22 de noviembre
+• Resaltado de la parte coincidente de la dirección en los resultados de búsqueda
+• Ordenar el historial de búsquedas por la última vez de uso
+• Solucionados los bloqueos al inicio en algunos dispositivos antiguos con GPU Mali-T
+• Otras mejoras en la búsqueda, actualizaciones de traducción y correcciones de errores

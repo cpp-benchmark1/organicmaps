@@ -1,0 +1,4 @@
+• New OpenStreetMap data as of November 22
+• Fixed bug with Bookmark's description editor
+• macOS: map scrolling via mouse and trackpad
+• Other search improvements, translation updates & bug fixes

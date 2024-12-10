@@ -1,0 +1,5 @@
+• New OpenStreetMap data as of November 22
+• Highlight matched part of the address in search results
+• Sort search history by last usage time
+• Fixed start-up crashes for some older devices with Mali-T GPUs
+• Other search improvements, translation updates & bug fixes

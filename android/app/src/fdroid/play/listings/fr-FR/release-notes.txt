@@ -1,0 +1,5 @@
+• Nouvelles données OpenStreetMap du 22 novembre
+• Mise en évidence de la partie correspondante de l'adresse dans les résultats de recherche
+• Tri de l'historique des recherches par dernier temps d'utilisation
+• Correction des plantages au démarrage sur certains anciens appareils avec des GPU Mali-T
+• Autres améliorations de recherche, mises à jour de traduction et corrections de bugs

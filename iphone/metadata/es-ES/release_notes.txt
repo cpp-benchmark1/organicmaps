@@ -1,0 +1,4 @@
+• Nuevos datos de OpenStreetMap del 22 de noviembre
+• Error corregido en el editor de descripción de marcadores
+• macOS: desplazamiento del mapa con mouse y trackpad
+• Otras mejoras en la búsqueda, actualizaciones de traducción y correcciones de errores

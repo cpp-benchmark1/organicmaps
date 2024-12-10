@@ -1,0 +1,4 @@
+• Neue OpenStreetMap-Daten vom 22. November
+• Behobener Fehler im Beschreibung-Editor für Lesezeichen
+• macOS: Karten-Scrolling mit Maus und Trackpad
+• Weitere Suchverbesserungen, Übersetzungs-Updates und Fehlerbehebungen
