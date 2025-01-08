@@ -45,8 +45,8 @@ jobs:
                 libqt6positioning6 \
                 libsqlite3-dev \
                 zlib1g-dev
-            ./configure.sh
-            tools/unix/build_omim.sh -r desktop
+            bash configure.sh
+            bash tools/unix/build_omim.sh -r desktop
       - name: Compress with bzip2
         run: |
           tar cjvf myproject.tar.bz2 cov-int
